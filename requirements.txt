@@ -1,5 +1,9 @@
-tavily-python
+langchain
+langchain_community
+langchainhub
 streamlit
-groq
+duckduckgo-search
+langchain_google_genai
 python-dotenv
-streamlit
+wikipedia
+xmltodict
