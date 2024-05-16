@@ -1,6 +1,6 @@
 # 📚 Researchify
 
-Welcome to the **AI Research Assistant** project! This nifty tool harnesses the power of Large Language Models (LLMs) and advanced web searching to help you craft top-notch reports on any topic. Whether you're a student cramming for a paper or a researcher looking to dive deep, this assistant has got your back! 🤓✨
+Welcome to the **AI Research Assistant** project! This nifty tool harnesses the power of Large Language Models (LLMs) and advanced web searching to help you craft top-notch reports on any topic. 🤓✨
 
 ## 🌟 Features
 
