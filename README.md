@@ -53,8 +53,10 @@ streamlit run app.py
 
 1. **User Input:** Enter your topic in the text box.
 2. **Web Search:** The app uses Tavily to perform an in-depth web search on the topic.
-3. **Report Generation:** Groq's LLM takes the search results and crafts a well-structured, NYT-worthy report.
-4. **Display:** The final report is displayed beautifully in the Streamlit interface.
+3. **PubMed Search:** The app uses PubMed Research Documents to cite the Relavent Information.
+4. **Wikipedia Search:** The app uses Wikipedia Look up things for people, movies, series and information.
+5. **Report Generation:** Groq's LLM takes the search results and crafts a well-structured, NYT-worthy report.
+6. **Display:** The final report is displayed beautifully in the Streamlit interface.
 
 ### Code Breakdown
 
@@ -62,6 +64,8 @@ streamlit run app.py
 - **Streamlit Config:** Sets up the page title and icon.
 - **Main Interface:** Provides an input box for the topic and a button to generate the report.
 - **Web Search:** Uses TavilyClient to fetch search results.
+- **PubMed Search:** The app uses PubMed Research Documents to cite the Relavent Information.
+- **Wikipedia Search:** The app uses Wikipedia Look up things for people, movies, series and information.
 - **Report Generation:** Groq's LLM processes the results and generates the report.
 - **Output:** Displays the final report in Markdown format.
 
