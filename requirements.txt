@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+tavily-python
+wikipedia
+pymed
+python-docx
+python-pptx
+pandas
+PyPDF2
+pytesseract
+Pillow
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
