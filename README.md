@@ -16,7 +16,7 @@ Welcome to the **AI Research Assistant** project! This nifty tool harnesses the 
 - **Python 3.8+**
 - **Streamlit**
 - **dotenv**
-- **Groq API Key**
+- **Gemini API Key**
 - **Tavily API Key**
 
 ### Installation
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Create a `.env` file and add your API keys:
 
 ```plaintext
-GROQ_API_KEY=your_groq_api_key
+GOOGLE_API_KEY=your_gemini_api_key
 TAVILY_API_KEY=your_tavily_api_key
 ```
 
