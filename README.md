@@ -108,6 +108,10 @@ Here's what a generated report looks like:
 
 Feel free to contribute! Fork the repo, make your changes, and send a pull request. For issues or questions, open a ticket or hit me up directly.
 
+## Acknowledgement
+
+Use this project for learning not just copy pasting the repo for a hackathon, though you might win the hackathon but sure will never learn how it works.
+
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
