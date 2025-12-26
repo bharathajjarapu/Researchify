@@ -1,15 +1,15 @@
-# 📚 Researchify
+# Researchify
 
-Welcome to the **AI Researcher** project! This nifty tool harnesses the power of Large Language Models (LLMs) and advanced web searching to help you craft top-notch reports on any topic. 🤓✨
+Welcome to the **AI Researcher** project! This nifty tool harnesses the power of Large Language Models (LLMs) and advanced web searching to help you craft top-notch reports on any topic.
 
-## 🌟 Features
+## Features
 
-- **Dynamic Topic Input:** Just type in your topic, and let the magic begin! 🧙‍♂️
-- **Web Search Integration:** Uses **Tavily** to scour the web for the best sources. 🌐🔍
-- **LLM-Powered Reports:** Employs **Groq**'s LLM to generate comprehensive, human-like reports. 📝🧠
-- **Streamlit Interface:** User-friendly interface for seamless interaction. 🖥️✨
+- **Dynamic Topic Input:** Just type in your topic, and let the magic begin!
+- **Web Search Integration:** Uses **Tavily** to scour the web for the best sources.
+- **LLM-Powered Reports:** Employs **Groq**'s LLM to generate comprehensive, human-like reports.
+- **Streamlit Interface:** User-friendly interface for seamless interaction.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ Fire up the Streamlit app:
 streamlit run app.py
 ```
 
-## 🛠️ How It Works
+## How It Works
 
 1. **User Input:** Enter your topic in the text box.
 2. **Web Search:** The app uses Tavily to perform an in-depth web search on the topic.
@@ -69,7 +69,7 @@ streamlit run app.py
 - **Report Generation:** Groq's LLM processes the results and generates the report.
 - **Output:** Displays the final report in Markdown format.
 
-## 📖 Example Report Structure
+## Example Report Structure
 
 Here's what a generated report looks like:
 
@@ -104,7 +104,7 @@ Here's what a generated report looks like:
 - [Reference 2](Link URL to Source)
 ```
 
-## 📬 Contributions & Issues
+## Contributions & Issues
 
 Feel free to contribute! Fork the repo, make your changes, and send a pull request. For issues or questions, open a ticket or hit me up directly.
 
@@ -112,7 +112,7 @@ Feel free to contribute! Fork the repo, make your changes, and send a pull reque
 
 Use this project for learning not just copy pasting the repo for a hackathon, though you might win the hackathon but sure will never learn how it works.
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
